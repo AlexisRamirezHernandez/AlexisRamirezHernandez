@@ -1,8 +1,8 @@
 # Hola, mi nombre es Oscar Alexis Ramirez Hernandez
 ![Image text](https://github.com/AlexisRamirezHernandez/AlexisRamirezHernandez/blob/main/Captura%20de%20pantalla%202022-01-29%20133834.png)
 ![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=AbhishekSinghDhadwal&color=red)&nbsp;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/AbhishekSinghDhadwal?label=follow&style=social)](https://github.com/AlexisRamirezHernandez)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=AlexisRamirezHernadez&color=red)&nbsp;
+[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/AlexisRamirezHernadez?label=follow&style=social)](https://github.com/AlexisRamirezHernandez)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
